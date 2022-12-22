@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "information_sampling_task_modeling"
+  site-url: "https://hgzech.github.io/information_sampling_task_modeling"
+  description: "In this project we work on computational modeling of the information sampling task."
+  repo-branch: main
+  repo-url: "https://github.com/hgzech/information_sampling_task_modeling"
